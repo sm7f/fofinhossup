@@ -1,4 +1,5 @@
 # Landing Page Projeto PDV
+https://venerable-sunflower-6651d4.netlify.app
 
 ## Visão Geral
 Bem-vindo à landing page Projeto PDV! Esta página destina-se a fornecer informações detalhadas sobre as funcionalidades e características essenciais.
